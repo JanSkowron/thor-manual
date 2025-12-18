@@ -1,7 +1,7 @@
 Scan Modes
 ==========
 
-You can select between six different scan modes in THOR:
+You can select between six different scan modes in THOR:test
 
 - **Default**
 
