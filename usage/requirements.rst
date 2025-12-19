@@ -4,9 +4,9 @@
 Requirements
 ============
 
-THOR runs in any Windows, Linux and macOS environment without any
-further requirements. Everything needed is already included in the
-program package.
+THOR runs in any Windows, Linux, and macOS environment without
+further requirements. Everything needed is included
+in the program package.
 
 To use the full potential of THOR, you should execute it with administrative
 privileges - ``LOCAL_SYSTEM`` on Windows and ``root`` on Linux/macOS
@@ -51,9 +51,9 @@ Legacy Systems
 ^^^^^^^^^^^^^^
 
 These versions are scannable with THOR Legacy. The legacy version
-of THOR is usually running on those systems, but if you encounter
+of THOR usually runs those systems, but if you encounter
 any problems, we will not be able to fix them. Contact us for
-details on how to download and use THOR Legacy.
+details on how to download and use THOR Legacy
 
 .. list-table:: 
   :widths: 50, 25, 25
@@ -102,14 +102,14 @@ to collect/analyze files from the following systems:
 Update Servers
 --------------
 
-To download the newest updates for THOR and our signatures, you need an active internet connection.
-The endpoint performing the update needs to reach our update servers to do this.
+To download the latest updates for THOR and our signatures, you need an active internet connection.
+The endpoint performing the update must reach our update servers to do so.
 
-For a detailed and up to date list of our update and licensing
+For a detailed and up-to-date list of our update and licensing
 servers, please visit https://www.nextron-systems.com/resources/hosts/.
 
 .. hint::
   You do not need an active internet connection to scan an endpoint. This is only needed
   if you want to update to the latest THOR and signature versions. There are special
-  licenses for special circumstances, for example when the licensed system does not
+  licenses for specific circumstances, for example when the licensed system does not
   have internet access, and you need to use another system to download updates.
